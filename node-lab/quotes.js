@@ -1,0 +1,5 @@
+const quotes = ['I sometimes think that people’s hearts are like deep wells. Nobody knows what’s at the bottom. All you can do is imagine by what comes floating to the surface every once in a while.', 'We all owe death a life.', 'The wise are not wise because they make no mistakes. They are wise because they correct their mistakes as soon as they recognize them.', 'When you have wisdom that another person knows that he needs, you give it freely. But when the other person doesn\'t yet know that he needs your wisdom you keep it to yourself. Food only looks good to a hungry man.', 'One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony.'];
+
+module.exports = {
+    quotes
+};
